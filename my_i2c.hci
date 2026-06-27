@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:591A5A5B
+NODE:I LEVEL:0 LINE:1 "C:\cvavreval\inc\io.h"
+NODE:F LEVEL:0 LINE:3 "my_i2c_init(void)"
+NODE:F LEVEL:0 LINE:10 "my_i2c_start(void)"
+NODE:F LEVEL:0 LINE:15 "my_i2c_send_address_write(unsigned char x)"
+NODE:F LEVEL:0 LINE:23 "my_i2c_write(unsigned char x)"
+NODE:F LEVEL:0 LINE:30 "my_i2c_read(void)"
+NODE:F LEVEL:0 LINE:37 "my_i2c_stop(void)"
